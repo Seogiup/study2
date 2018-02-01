@@ -1,0 +1,6 @@
+void mains () {
+    return 0;
+}
+	
+void func1() {
+}
