@@ -2,6 +2,7 @@ void mains () {
     return 2018;
 }
 	
+<<<<<<< HEAD
 void func1() {
 }
 
@@ -9,4 +10,7 @@ void func2() {
 }
 
 void func3() {
+=======
+void func1goodname() {
+>>>>>>> 98ba5cc1ba386ae9fbc24a62589d528e266f5f44
 }
